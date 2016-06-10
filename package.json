@@ -39,7 +39,7 @@
 
 	"dependencies": {
 		"commander": "latest",
-		"type-component": "latest",
+		"component-type": "latest",
 		"equals": "latest"
 	},
 	
