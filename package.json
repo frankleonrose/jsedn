@@ -11,13 +11,13 @@
 		"name": "Shaun Gilchrist",
 		"email": "shaunxcode@gmail.com",
 		"web": "http://order-of-no.posterous.com"
-	}], 
+	}],
 
 	"contributors": [{
 		"name": "Shaun Gilchrist",
 		"email": "shaunxcode@gmail.com",
 		"web": "http://order-of-no.posterous.com"
-	}], 
+	}],
 
 	"bugs": "http://www.github.com/shaunxcode/jsedn/issues",
 
@@ -32,20 +32,20 @@
 	},
 
 	"devDependencies": {
-		"coffee-script": "latest",
-		"underscore": "latest",
-		"microtime": "latest"
+		"coffee-script": "*",
+		"underscore": "*",
+		"microtime": "*"
 	},
 
 	"dependencies": {
-		"commander": "latest",
-		"component-type": "latest",
-		"equals": "latest"
+		"commander": "*",
+		"component-type": "*",
+		"equals": "*"
 	},
-	
+
 	"bin": {
 		"jsedn": "./bin/jsedn"
 	},
-	
+
 	"main": "index.js"
 }
